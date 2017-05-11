@@ -31,7 +31,7 @@ sudo apt-get install curl
 $ git clone https://github.com/NeroTeam/butler.git
 
 $ cd butler && sudo chmod 777 launch.sh
-```
+`````
 
 
 [Nero Team](https://telegram.me/NeroTeam)
