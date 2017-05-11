@@ -1,6 +1,5 @@
 # Group Butler (Api Bot Base)
 
-ربات مترجم با دکمه شیشه ای نوشته شده توسط تیم قدرتمند کرول
 
 #install
 
